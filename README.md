@@ -23,7 +23,7 @@ pip install pandas numpy matplotlib
 
 ## Data
 
-Download from Zenodo (PAVS v1.1.0):
+Download from Zenodo ([PAVS v1.1.0]((https://doi.org/10.5281/zenodo.19311539))):
 - `phenotype_similarity_comprehensive.csv` → place in `data/`
 - `literature.ttl` → place in `data/`
 
